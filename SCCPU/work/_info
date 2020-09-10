@@ -1,0 +1,279 @@
+m255
+K3
+13
+cModel Technology
+dD:\Program Files (x86)\modeltech64_10.1c\examples
+valu
+VW1H8`<zcXiLKMd8Hi_iC>1
+r1
+31
+I`X1ei^]LCL49`O3j52<mH2
+Z0 dC:\Users\DELL\Desktop\Well_SSCPU
+w1573210012
+8C:/Users/DELL/Desktop/Well_SSCPU/alu.v
+FC:/Users/DELL/Desktop/Well_SSCPU/alu.v
+L0 3
+Z1 OL;L;10.1c;51
+Z2 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s100 i5i1FMmFRUKmOV4g4QzIZ0
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/DELL/Desktop/Well_SSCPU/alu.v|
+!s108 1573213693.469000
+!s107 ctrl_encode_def.v|C:/Users/DELL/Desktop/Well_SSCPU/alu.v|
+!s85 0
+!i10b 1
+vctrl
+Vi9VAR206mNG]djFbf9UmC0
+r1
+!s85 0
+31
+IH1jjSf]a?:f`H3D`aD2m`2
+Z3 dC:\Users\DELL\Desktop\Well_SSCPU
+w1573215244
+8C:/Users/DELL/Desktop/Well_SSCPU/ctrl.v
+FC:/Users/DELL/Desktop/Well_SSCPU/ctrl.v
+L0 4
+R1
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/DELL/Desktop/Well_SSCPU/ctrl.v|
+R2
+!i10b 1
+!s100 7<MbdA:lbci2M?iYOSESJ2
+!s108 1573215693.098000
+!s107 C:/Users/DELL/Desktop/Well_SSCPU/ctrl.v|
+vdm
+VQ5kzjohU1HQB?iGHI7LOU0
+r1
+31
+IQe[ZfWeiQ`gd2FAf@=Z7B0
+R3
+w1572064098
+8C:/Users/DELL/Desktop/Well_SSCPU/dm.v
+FC:/Users/DELL/Desktop/Well_SSCPU/dm.v
+L0 3
+R1
+R2
+!s100 3Qn82P>`:j03VCjLAiUW11
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/DELL/Desktop/Well_SSCPU/dm.v|
+!s108 1573213694.934000
+!s107 C:/Users/DELL/Desktop/Well_SSCPU/dm.v|
+!s85 0
+!i10b 1
+vEXT
+V<;>E_N0WZjXOmgdkAPRL02
+r1
+31
+IEHLoPUzeFfl@9a<K8R[7:3
+R3
+w1571487706
+8C:/Users/DELL/Desktop/Well_SSCPU/EXT.v
+FC:/Users/DELL/Desktop/Well_SSCPU/EXT.v
+L0 2
+R1
+R2
+n@e@x@t
+!s100 ;;4b]_XgU;lmj[>aUFK>Y0
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/DELL/Desktop/Well_SSCPU/EXT.v|
+!s108 1573213693.914000
+!s107 C:/Users/DELL/Desktop/Well_SSCPU/EXT.v|
+!s85 0
+!i10b 1
+vim
+VkoA3ibJYjK6f9b:B2VJKK0
+r1
+31
+IN4c]<mLlGn6ChfMTb_Tz81
+R3
+w1551458228
+8C:/Users/DELL/Desktop/Well_SSCPU/im.v
+FC:/Users/DELL/Desktop/Well_SSCPU/im.v
+L0 3
+R1
+R2
+!s100 IR=[Vn<oj`P26>S6QR>BF0
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/DELL/Desktop/Well_SSCPU/im.v|
+!s108 1573213695.068000
+!s107 C:/Users/DELL/Desktop/Well_SSCPU/im.v|
+!s85 0
+!i10b 1
+vmux16
+IG0hZ7_68o@@Q3o03YP7I<3
+V`6=HBldE>cXC;m]K0;QI>0
+R3
+Z4 w1550765554
+Z5 8C:/Users/DELL/Desktop/Well_SSCPU/mux.v
+Z6 FC:/Users/DELL/Desktop/Well_SSCPU/mux.v
+L0 71
+R1
+r1
+31
+Z7 !s108 1573213694.071000
+Z8 !s107 C:/Users/DELL/Desktop/Well_SSCPU/mux.v|
+Z9 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/DELL/Desktop/Well_SSCPU/mux.v|
+R2
+!s100 >zQ`L[`EP4kNPiDISnQAd0
+!i10b 1
+!s85 0
+vmux2
+VT8RWJBjAIeM]>7U=5kBkT1
+r1
+31
+Io3>dia[B7C96k]V0BPDXR3
+R3
+R4
+R5
+R6
+L0 2
+R1
+R7
+R8
+R9
+R2
+!s100 @R??A8R0?db:8hTPEeU]:3
+!s85 0
+!i10b 1
+vmux4
+V@m74j;^3XFJ7>OzQXh6V`0
+r1
+31
+IDdgTcl4UzanO[KCmBBg2V3
+R3
+R4
+R5
+R6
+L0 15
+R1
+R7
+R8
+R9
+R2
+!s100 IED>D``d4_hBE5RdlXjMY2
+!s85 0
+!i10b 1
+vmux8
+IATI]J1^NJ>G2J=V13j7G`0
+VOh>X<_n?620Z_^H7^I9KH2
+R3
+R4
+R5
+R6
+L0 40
+R1
+r1
+31
+R7
+R8
+R9
+R2
+!s100 WG:d_mLnY`X@@^gc`WfBD1
+!i10b 1
+!s85 0
+vNPC
+VO0Q8lOEWm^XX6jGV:G3R[1
+r1
+31
+ISSi>l[UaEX?e9LfdgY;zX1
+R3
+w1573212501
+8C:/Users/DELL/Desktop/Well_SSCPU/NPC.v
+FC:/Users/DELL/Desktop/Well_SSCPU/NPC.v
+L0 3
+R1
+R2
+n@n@p@c
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/DELL/Desktop/Well_SSCPU/NPC.v|
+!s100 fA6HKiS3;:LIb4XINBDN21
+!s108 1573213694.273000
+!s107 ctrl_encode_def.v|C:/Users/DELL/Desktop/Well_SSCPU/NPC.v|
+!s85 0
+!i10b 1
+vPC
+Vz>ZmmiZ`iG:Zc`EOFokET3
+r1
+31
+IcQU`Y`FET?^`KKnzZ:njn0
+R3
+w1550113688
+8C:/Users/DELL/Desktop/Well_SSCPU/PC.v
+FC:/Users/DELL/Desktop/Well_SSCPU/PC.v
+L0 1
+R1
+R2
+n@p@c
+!s100 ^I=Z5KYi5Zbg6`fEN7Ck>1
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/DELL/Desktop/Well_SSCPU/PC.v|
+!s108 1573213694.417000
+!s107 C:/Users/DELL/Desktop/Well_SSCPU/PC.v|
+!s85 0
+!i10b 1
+vRF
+VEWJn__zm[8SS3Z@zFLOZT3
+r1
+31
+IMi[09kA0FzB0S8aSmiigg0
+R3
+w1551271794
+8C:/Users/DELL/Desktop/Well_SSCPU/RF.v
+FC:/Users/DELL/Desktop/Well_SSCPU/RF.v
+L0 2
+R1
+R2
+n@r@f
+!s100 21zQ6eh^TZ_fQCS>3P^cV2
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/DELL/Desktop/Well_SSCPU/RF.v|
+!s108 1573213694.563000
+!s107 C:/Users/DELL/Desktop/Well_SSCPU/RF.v|
+!s85 0
+!i10b 1
+vsccomp
+VgVBdf]6a]6QJ4FkU3fQ153
+r1
+31
+ILaz_20_1KGV8U^`[DKYJb2
+R3
+w1573173724
+8C:/Users/DELL/Desktop/Well_SSCPU/sccomp.v
+FC:/Users/DELL/Desktop/Well_SSCPU/sccomp.v
+L0 1
+R1
+R2
+!s100 bPKcf2i2L`>J18O2j`WEQ2
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/DELL/Desktop/Well_SSCPU/sccomp.v|
+!s108 1573213695.198000
+!s107 C:/Users/DELL/Desktop/Well_SSCPU/sccomp.v|
+!s85 0
+!i10b 1
+vsccomp_tb
+VciK9E@b07zQnz0QWN@GCk0
+r1
+31
+I1Sm]jKE0jKON9AkFc<C]e1
+R3
+w1572066946
+8C:/Users/DELL/Desktop/Well_SSCPU/sccomp_tb.v
+FC:/Users/DELL/Desktop/Well_SSCPU/sccomp_tb.v
+L0 3
+R1
+R2
+!s100 CJ=cFYO>hb1f;BT8;Q54a3
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/DELL/Desktop/Well_SSCPU/sccomp_tb.v|
+!s108 1573213695.321000
+!s107 C:/Users/DELL/Desktop/Well_SSCPU/sccomp_tb.v|
+!s85 0
+!i10b 1
+vsccpu
+V2nlHBHNd:OILV4c`<oPFP3
+r1
+31
+IID6GSBF=VcLeY3ZefSR991
+R3
+w1573212601
+8C:/Users/DELL/Desktop/Well_SSCPU/sccpu.v
+FC:/Users/DELL/Desktop/Well_SSCPU/sccpu.v
+L0 1
+R1
+R2
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/DELL/Desktop/Well_SSCPU/sccpu.v|
+!s100 4hN]_?m4RL<cH>n=A;gbV2
+!s108 1573213694.784000
+!s107 C:/Users/DELL/Desktop/Well_SSCPU/sccpu.v|
+!s85 0
+!i10b 1
