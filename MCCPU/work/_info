@@ -1,0 +1,295 @@
+m255
+K3
+13
+cModel Technology
+dD:\Program Files (x86)\modeltech64_10.1c\examples
+valu
+VW1H8`<zcXiLKMd8Hi_iC>1
+r1
+31
+II>G7gX07?Ck6LoVX_Vm3b2
+Z0 dC:\Users\DELL\Desktop\MCCPU
+w1573713772
+8C:/Users/DELL/Desktop/MCCPU/alu.v
+FC:/Users/DELL/Desktop/MCCPU/alu.v
+L0 3
+Z1 OL;L;10.1c;51
+Z2 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s100 UT12cz@?LV>bIi;GNCDXM2
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/DELL/Desktop/MCCPU/alu.v|
+!s108 1573716440.012000
+!s107 ctrl_encode_def.v|C:/Users/DELL/Desktop/MCCPU/alu.v|
+!s85 0
+!i10b 1
+vctrl
+VojUjI1G6M0:ZS>N0=4NBh0
+r1
+!s85 0
+31
+IAYYJQ0MPFi;kl65f:;eDE2
+Z3 dC:\Users\DELL\Desktop\MCCPU
+w1573717122
+8C:/Users/DELL/Desktop/MCCPU/ctrl.v
+FC:/Users/DELL/Desktop/MCCPU/ctrl.v
+L0 4
+R1
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/DELL/Desktop/MCCPU/ctrl.v|
+R2
+!i10b 1
+!s100 =lY;HoV^Pc1Z02:<Jj54e1
+!s108 1573717169.357000
+!s107 C:/Users/DELL/Desktop/MCCPU/ctrl.v|
+vdm
+VQ5kzjohU1HQB?iGHI7LOU0
+r1
+31
+IhO`?fCB?z]Yo?^<6`1adI3
+R3
+w1572064098
+8C:/Users/DELL/Desktop/MCCPU/dm.v
+FC:/Users/DELL/Desktop/MCCPU/dm.v
+L0 3
+R1
+R2
+!s100 be:2n30K>Y[JkmGDQ:N[z1
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/DELL/Desktop/MCCPU/dm.v|
+!s108 1573716442.672000
+!s107 C:/Users/DELL/Desktop/MCCPU/dm.v|
+!s85 0
+!i10b 1
+vEXT
+V<;>E_N0WZjXOmgdkAPRL02
+r1
+31
+I@HZOgiY]hJ;R?<;dB1<^_1
+R3
+w1571500074
+8C:/Users/DELL/Desktop/MCCPU/EXT.v
+FC:/Users/DELL/Desktop/MCCPU/EXT.v
+L0 2
+R1
+R2
+n@e@x@t
+!s100 o7G`M9d=z`o8o?McWFYJk1
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/DELL/Desktop/MCCPU/EXT.v|
+!s108 1573716441.748000
+!s107 C:/Users/DELL/Desktop/MCCPU/EXT.v|
+!s85 0
+!i10b 1
+vflopenr
+VaCoeMRWXijP?Q28SU4E<80
+r1
+31
+IfKE08ho8T1fCdNQP^KE2U0
+R3
+w1571813108
+8C:/Users/DELL/Desktop/MCCPU/flopenr.v
+FC:/Users/DELL/Desktop/MCCPU/flopenr.v
+L0 1
+R1
+R2
+!s100 ]Z;nB]QXEaRFNY9OXld5L0
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/DELL/Desktop/MCCPU/flopenr.v|
+!s108 1573716441.964000
+!s107 C:/Users/DELL/Desktop/MCCPU/flopenr.v|
+!s85 0
+!i10b 1
+vflopr
+V]P_f@>=6G=?GDdBCzB=NS3
+r1
+31
+I9Ym5adG7QEBH0<Ga9gVoG2
+R3
+w1571662242
+8C:/Users/DELL/Desktop/MCCPU/flopr.v
+FC:/Users/DELL/Desktop/MCCPU/flopr.v
+L0 1
+R1
+R2
+!s100 1ocPY4D<0N@1KnEcFN8Y72
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/DELL/Desktop/MCCPU/flopr.v|
+!s108 1573716442.102000
+!s107 C:/Users/DELL/Desktop/MCCPU/flopr.v|
+!s85 0
+!i10b 1
+vmccomp
+VBShTEzn[_z7_jnP1_VS:B0
+r1
+31
+I2O>QTAe43o3YHeJ88biAk0
+R3
+w1573475158
+8C:/Users/DELL/Desktop/MCCPU/mccomp.v
+FC:/Users/DELL/Desktop/MCCPU/mccomp.v
+L0 1
+R1
+R2
+!s100 1@gokZBO0YSm`3Rck[UmD0
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/DELL/Desktop/MCCPU/mccomp.v|
+!s108 1573716442.819000
+!s107 C:/Users/DELL/Desktop/MCCPU/mccomp.v|
+!s85 0
+!i10b 1
+vmccomp_tb
+VI_8GS0`iCK3z:Y=>Ce]S40
+r1
+31
+InPJL5Fj=fEKbG:Afe2]dP1
+R3
+w1571892268
+8C:/Users/DELL/Desktop/MCCPU/mccomp_tb.v
+FC:/Users/DELL/Desktop/MCCPU/mccomp_tb.v
+L0 3
+R1
+R2
+!s100 47jfEf4ZzM[BIkH=P9L7]0
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/DELL/Desktop/MCCPU/mccomp_tb.v|
+!s108 1573716442.935000
+!s107 C:/Users/DELL/Desktop/MCCPU/mccomp_tb.v|
+!s85 0
+!i10b 1
+vmccpu
+Ven5H`>P3L]5O]g;6HV`aQ3
+r1
+31
+I]ljGPD0oYj1ao=O=YXJU_1
+R3
+w1573716505
+8C:/Users/DELL/Desktop/MCCPU/mccpu.v
+FC:/Users/DELL/Desktop/MCCPU/mccpu.v
+L0 1
+R1
+R2
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/DELL/Desktop/MCCPU/mccpu.v|
+!s100 h^;b;=gj0Z7K9GZY9Z5ZD3
+!s108 1573716510.506000
+!s107 C:/Users/DELL/Desktop/MCCPU/mccpu.v|
+!s85 0
+!i10b 1
+vmux16
+I>;2zGfaFD>]a;cg?YNCGa3
+V`6=HBldE>cXC;m]K0;QI>0
+R3
+Z4 w1573716396
+Z5 8C:/Users/DELL/Desktop/MCCPU/mux.v
+Z6 FC:/Users/DELL/Desktop/MCCPU/mux.v
+L0 125
+R1
+r1
+31
+Z7 !s108 1573716442.318000
+Z8 !s107 C:/Users/DELL/Desktop/MCCPU/mux.v|
+Z9 !s90 -reportprogress|300|-work|work|-vopt|C:/Users/DELL/Desktop/MCCPU/mux.v|
+R2
+!s100 =:AN:^LD6PITWFmNACcZn2
+!i10b 1
+!s85 0
+vmux2
+VT8RWJBjAIeM]>7U=5kBkT1
+r1
+31
+I:HSlUlI[_<fQ<b[S>HAR33
+R3
+R4
+R5
+R6
+L0 2
+R1
+R7
+R8
+R9
+R2
+!s100 >3GgUHC:R[^UkIFY9F[6h0
+!s85 0
+!i10b 1
+vmux3
+VTjHaPG]:Bo6MC<cWWh]F[3
+r1
+31
+IVg^>Ym1FiR`:gUNCbb>z33
+R3
+R4
+R5
+R6
+L0 15
+R1
+R7
+R8
+R9
+R2
+!s100 J;=GN:Jf@bcQ6G^mz?g7U0
+!s85 0
+!i10b 1
+vmux4
+V@m74j;^3XFJ7>OzQXh6V`0
+r1
+31
+ISCVVI8[7d2:f9`>eea72<3
+R3
+R4
+R5
+R6
+L0 41
+R1
+R7
+R8
+R9
+R2
+!s100 cDeLj;@e86YL2P7_kC;eo0
+!s85 0
+!i10b 1
+vmux6
+VXAAgKnID@e`kifkI@@Lg]1
+r1
+31
+IP[__RF1eEHml:;jI<Jj3V2
+R3
+R4
+R5
+R6
+L0 67
+R1
+R7
+R8
+R9
+R2
+!s100 ?Cc]6]216FTd_Ddd<EWOM0
+!s85 0
+!i10b 1
+vmux8
+I2ce8a?j9LAO<W7H63hGBZ0
+VOh>X<_n?620Z_^H7^I9KH2
+R3
+R4
+R5
+R6
+L0 94
+R1
+r1
+31
+R7
+R8
+R9
+R2
+!s100 M0U9BdG<g=:G=MTzVH10S0
+!i10b 1
+!s85 0
+vRF
+VEWJn__zm[8SS3Z@zFLOZT3
+r1
+31
+IXMR=j`ZL>;3@f>5e@Y?N;0
+R3
+w1571500702
+8C:/Users/DELL/Desktop/MCCPU/RF.v
+FC:/Users/DELL/Desktop/MCCPU/RF.v
+L0 2
+R1
+R2
+n@r@f
+!s100 DlogiLHcPGcoKz1f2^M8J1
+!s90 -reportprogress|300|-work|work|-vopt|C:/Users/DELL/Desktop/MCCPU/RF.v|
+!s108 1573716442.550000
+!s107 C:/Users/DELL/Desktop/MCCPU/RF.v|
+!s85 0
+!i10b 1
